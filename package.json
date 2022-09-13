@@ -3,6 +3,7 @@
     "displayName": "ruby-latte",
     "description": "Ruby Latte theme for VS Code",
     "version": "1.0.0",
+    "repository": "https://github.com/limpbiskuit/ruby-latte",
     "engines": {
         "vscode": "^1.71.0"
     },
