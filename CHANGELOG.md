@@ -5,3 +5,5 @@ All notable changes to the "ruby-latte" extension will be documented in this fil
 ## 1.0.0
 
 - Initial release
+
+- Rust syntax highlighting support
