@@ -1,0 +1,24 @@
+{
+    "name": "ruby-latte",
+    "displayName": "ruby-latte",
+    "description": "Ruby Latte theme for VS Code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.71.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ruby Latte",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruby Latte-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "esbuild": "^0.15.7"
+    }
+}
