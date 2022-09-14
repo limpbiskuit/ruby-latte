@@ -2,6 +2,12 @@
 
 All notable changes to the "ruby-latte" extension will be documented in this file.
 
+## 0.0.2.1
+
+- Fixed terminal cursor's color
+
+- Added highlighting for constant value
+
 ## 0.0.2
 
 - Added Python syntax highlighting
