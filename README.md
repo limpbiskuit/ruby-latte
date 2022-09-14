@@ -10,4 +10,4 @@ For now this extention only officially support Python and Rust for syntax highli
 You can simply install this theme [from the VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=limpbiskuit.ruby-latte)
 
 ### Manual
-You can download the last release build and install the extention by using `Extentions: Install from VSIX...` in the commands palette.
+You can download the latest release build and install the extention by using `Extentions: Install from VSIX...` in the commands palette.
