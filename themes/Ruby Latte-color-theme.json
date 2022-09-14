@@ -687,7 +687,7 @@
 			}
 		},
 		{
-			"scope": "variable.language",
+			"scope": "variable.language,variable.parameter.function.language.special",
 			"settings": {
 				"foreground": "#E23C47"
 			}
@@ -735,13 +735,19 @@
 			}
 		},
 		{
+			"scope": "meta.function-call",
+			"settings": {
+				"foreground": "#58a2da",
+			}
+		},
+		{
 			"scope": "constant.other",
 			"settings": {
 				"foreground": "#D16323"
 			}
 		},
 		{
-			"scope": "variable.other",
+			"scope": "variable.other,variable.parameter",
 			"settings": {
 				"foreground": "#ECBC98"
 			}
@@ -750,6 +756,12 @@
 			"scope": "support.type.property-name",
 			"settings": {
 				"foreground": "#ECBC98"
+			}
+		},
+		{
+			"scope": "meta.item-access,meta.function-call.arguments",
+			"settings": {
+				"foreground": "#ecbc98",
 			}
 		},
 		{
