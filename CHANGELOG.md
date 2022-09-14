@@ -2,13 +2,13 @@
 
 All notable changes to the "ruby-latte" extension will be documented in this file.
 
+## 0.1.1
 
-## 1.0.1
+- Added Python syntax highlighting
 
-- Minor adjustments
+- Minor Adjustments
 
-
-## 1.0.0
+## 0.0.1
 
 - Basic theming
 
