@@ -1,7 +1,7 @@
 # Ruby Latte
 This is the Ruby Latte theme for VisualStudio Code.
 
-For now this extention only officially support Rust for syntax highlighting.
+For now this extention only officially support Python and Rust for syntax highlighting.
 
 
 ## Installation
