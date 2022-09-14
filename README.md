@@ -14,5 +14,5 @@ You can download the last release build and install the extention by using `Exte
 
 
 ## Planned features
-* Python syntax highlighting
+* Javascript syntax highlighting
 * Markdown syntax highlighting
