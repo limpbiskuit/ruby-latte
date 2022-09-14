@@ -699,6 +699,12 @@
 			}
 		},
 		{
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#A575D1",
+			}
+		},
+		{
 			"scope": "constant.numeric",
 			"settings": {
 				"foreground": "#A575D1"
