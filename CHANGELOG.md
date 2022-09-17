@@ -6,7 +6,7 @@ All notable changes to the "ruby-latte" extension will be documented in this fil
 
 - Fixed terminal cursor's color
 
-- Added highlighting for constant value
+- Added highlighting for constant values
 
 ## 0.0.2
 
