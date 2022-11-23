@@ -711,7 +711,7 @@
 			}
 		},
 		{
-			"scope": "keyword.operator.assignment,keyword.operator.logical,keyword.operator.arithmetic,keyword.operator.math,keyword.operator.comparison,keyword.operator.arrow",
+			"scope": "keyword.operator.assignment,keyword.operator.logical,keyword.operator.arithmetic,keyword.operator.math,keyword.operator.comparison,keyword.operator.arrow,keyword.operator.increment,keyword.oàperator.decrement",
 			"settings": {
 				"foreground": "#46C3A8"
 			}

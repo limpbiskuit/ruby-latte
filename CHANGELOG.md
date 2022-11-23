@@ -2,6 +2,10 @@
 
 All notable changes to the "ruby-latte" extension will be documented in this file.
 
+## 0.1.1
+
+- Added increment and decrement operators
+
 ## 0.1.0
 
 - Downgraded VSCode version to 1.31.0
